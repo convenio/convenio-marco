@@ -1,4 +1,4 @@
-convenio-marco
+aprendiendo usar github
 ==============
 
 para convenio marco
